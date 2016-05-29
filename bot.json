@@ -1,0 +1,6 @@
+{
+    "token" : "insert token from bot account here",
+    "bot" : "name of your bot here",
+    "invoker" : "the thing that goes before the commands here",
+    "fileformat" : "the file format of your sound files here"
+}
