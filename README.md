@@ -9,5 +9,6 @@ An easily customizable discord bot for playing of sound effects
 4. Edit bot.json according to the file.
 5. (Optional) Add a profile picture named as `avy.png` or `avy.jpg`.
 6. Run `firsttime.bat` and then `run bot.bat`
-
-Unzip your music files to the sound folder (the names of the files without the file format are the names of the commands). Open `run bot.bat` when you want to run the bot other times.
+7. Create a folder called `sound` and unzip your music files to it (the names of the files without the file format are the names of the commands).
+ 
+Open `run bot.bat` when you want to run the bot other times.
